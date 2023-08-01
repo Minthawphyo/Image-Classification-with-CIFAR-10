@@ -59,10 +59,6 @@ pip install -r requirements.txt
 
 4. Follow the instructions and run the code cells in the notebook to preprocess the data, implement and train the CNN and MobileNet models, and evaluate the model's performance.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - The CIFAR-10 dataset is taken from the TensorFlow/Keras dataset library.
