@@ -46,8 +46,8 @@ The training and validation accuracy and loss plots are displayed for both the C
 
 1. Clone the repository to your local machine:
 
-git clone https://github.com/your_username/Image_Classification_CIFAR-10.git
-cd Image_Classification_CIFAR-10
+git clone https://github.com/Minthawphyo/Image-Classification-with-CIFAR-10.git
+cd Image-Classification-with-CIFAR-10
 
 
 2. Install the required dependencies:
