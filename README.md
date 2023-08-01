@@ -55,7 +55,7 @@ cd Image-Classification-with-CIFAR-10
 pip install -r requirements.txt
 
 
-3. Open the Jupyter notebook `Image_Classification_CIFAR-10.ipynb` using Jupyter Notebook or JupyterLab.
+3. Open the Jupyter notebook ` image-classification-with-cifar-10-dataset.ipynb` using Jupyter Notebook or JupyterLab.
 
 4. Follow the instructions and run the code cells in the notebook to preprocess the data, implement and train the CNN and MobileNet models, and evaluate the model's performance.
 
